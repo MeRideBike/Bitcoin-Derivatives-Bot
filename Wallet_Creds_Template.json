@@ -1,0 +1,9 @@
+{
+    "GOES HERE": {
+        "seed": "GOES HERE",
+        "encrypted": true,
+        "auth_tag": "GOES HERE",
+        "iv": "GOES HERE",
+        "network_id": "base-sepolia"
+    }
+}
