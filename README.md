@@ -20,3 +20,7 @@ Live trading via Coinbase Advanced API (REST/WebSocket)
 Logging, monitoring, and adaptive strategy logic
 
 Focused on mean-reversion and exhaustion plays, the bot is engineered to think like a contrarian — patient, data-driven, and capital-aware.
+
+# On Windows
+Double-click or run:
+TradingEnv.bat
